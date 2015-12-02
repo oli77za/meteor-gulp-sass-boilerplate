@@ -12,7 +12,7 @@ Once added, run npm install in the submodule, and run gulp to watch/compile SASS
 
 ```sh
 $ cd <root of your meteor proj>i
-$ git submodule add meteor-gulp-sass-boilerplate .git
+$ git submodule add https://github.com/oli77za/meteor-gulp-sass-boilerplate.git .gulp
 $ cd .gulp
 $ npm install
 ```
